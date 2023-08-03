@@ -141,3 +141,4 @@ void MediaBanda()
 }
 
 ExibirOpcoesDoMenu();
+
