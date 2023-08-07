@@ -1,4 +1,30 @@
 ﻿<Properties StartupConfiguration="{5AC86381-4A80-4251-98DE-8215DB0E5CBA}|Default">
-  <MonoDevelop.Ide.ItemProperties.POO FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="POO/Podcast.cs">
+    <Files>
+      <File FileName="POO/Program.cs" Line="49" Column="43" />
+      <File FileName="POO/Musica.cs" Line="1" Column="13" />
+      <File FileName="POO/Album.cs" Line="14" Column="37" />
+      <File FileName="POO/Banda.cs" Line="8" Column="6" />
+      <File FileName="POO/Episodio.cs" Line="23" Column="1" />
+      <File FileName="POO/Podcast.cs" Line="16" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="POO">
+            <Node name="POO">
+              <Node name="Podcast.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.POO PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
