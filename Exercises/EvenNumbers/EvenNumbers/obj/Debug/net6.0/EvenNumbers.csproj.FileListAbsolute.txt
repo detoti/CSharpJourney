@@ -1,0 +1,15 @@
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenNumbers/EvenNumbers/bin/Debug/net6.0/EvenNumbers
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenNumbers/EvenNumbers/bin/Debug/net6.0/EvenNumbers.deps.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenNumbers/EvenNumbers/bin/Debug/net6.0/EvenNumbers.runtimeconfig.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenNumbers/EvenNumbers/bin/Debug/net6.0/EvenNumbers.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenNumbers/EvenNumbers/bin/Debug/net6.0/EvenNumbers.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenNumbers/EvenNumbers/obj/Debug/net6.0/EvenNumbers.csproj.AssemblyReference.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenNumbers/EvenNumbers/obj/Debug/net6.0/EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenNumbers/EvenNumbers/obj/Debug/net6.0/EvenNumbers.AssemblyInfoInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenNumbers/EvenNumbers/obj/Debug/net6.0/EvenNumbers.AssemblyInfo.cs
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenNumbers/EvenNumbers/obj/Debug/net6.0/EvenNumbers.csproj.CoreCompileInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenNumbers/EvenNumbers/obj/Debug/net6.0/EvenNumbers.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenNumbers/EvenNumbers/obj/Debug/net6.0/refint/EvenNumbers.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenNumbers/EvenNumbers/obj/Debug/net6.0/EvenNumbers.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenNumbers/EvenNumbers/obj/Debug/net6.0/EvenNumbers.genruntimeconfig.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenNumbers/EvenNumbers/obj/Debug/net6.0/ref/EvenNumbers.dll

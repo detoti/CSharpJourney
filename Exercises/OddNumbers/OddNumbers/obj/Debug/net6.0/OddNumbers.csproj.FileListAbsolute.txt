@@ -1,0 +1,15 @@
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/OddNumbers/OddNumbers/bin/Debug/net6.0/OddNumbers
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/OddNumbers/OddNumbers/bin/Debug/net6.0/OddNumbers.deps.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/OddNumbers/OddNumbers/bin/Debug/net6.0/OddNumbers.runtimeconfig.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/OddNumbers/OddNumbers/bin/Debug/net6.0/OddNumbers.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/OddNumbers/OddNumbers/bin/Debug/net6.0/OddNumbers.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/OddNumbers/OddNumbers/obj/Debug/net6.0/OddNumbers.csproj.AssemblyReference.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/OddNumbers/OddNumbers/obj/Debug/net6.0/OddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/OddNumbers/OddNumbers/obj/Debug/net6.0/OddNumbers.AssemblyInfoInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/OddNumbers/OddNumbers/obj/Debug/net6.0/OddNumbers.AssemblyInfo.cs
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/OddNumbers/OddNumbers/obj/Debug/net6.0/OddNumbers.csproj.CoreCompileInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/OddNumbers/OddNumbers/obj/Debug/net6.0/OddNumbers.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/OddNumbers/OddNumbers/obj/Debug/net6.0/refint/OddNumbers.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/OddNumbers/OddNumbers/obj/Debug/net6.0/OddNumbers.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/OddNumbers/OddNumbers/obj/Debug/net6.0/OddNumbers.genruntimeconfig.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/OddNumbers/OddNumbers/obj/Debug/net6.0/ref/OddNumbers.dll

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A266902D-2C0D-4DE1-BC34-E1DA142EFC07}|Default">
+  <MonoDevelop.Ide.ItemProperties.EvenOddPositiveNegative PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EvenOddPositiveNegative/Program.cs">
+    <Files>
+      <File FileName="EvenOddPositiveNegative/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EvenOddPositiveNegative" expanded="True">
+            <Node name="EvenOddPositiveNegative">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

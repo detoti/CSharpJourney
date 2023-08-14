@@ -1,0 +1,15 @@
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/PositiveNumbers/PositiveNumbers/bin/Debug/net6.0/PositiveNumbers
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/PositiveNumbers/PositiveNumbers/bin/Debug/net6.0/PositiveNumbers.deps.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/PositiveNumbers/PositiveNumbers/bin/Debug/net6.0/PositiveNumbers.runtimeconfig.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/PositiveNumbers/PositiveNumbers/bin/Debug/net6.0/PositiveNumbers.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/PositiveNumbers/PositiveNumbers/bin/Debug/net6.0/PositiveNumbers.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/PositiveNumbers/PositiveNumbers/obj/Debug/net6.0/PositiveNumbers.csproj.AssemblyReference.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/PositiveNumbers/PositiveNumbers/obj/Debug/net6.0/PositiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/PositiveNumbers/PositiveNumbers/obj/Debug/net6.0/PositiveNumbers.AssemblyInfoInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/PositiveNumbers/PositiveNumbers/obj/Debug/net6.0/PositiveNumbers.AssemblyInfo.cs
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/PositiveNumbers/PositiveNumbers/obj/Debug/net6.0/PositiveNumbers.csproj.CoreCompileInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/PositiveNumbers/PositiveNumbers/obj/Debug/net6.0/PositiveNumbers.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/PositiveNumbers/PositiveNumbers/obj/Debug/net6.0/refint/PositiveNumbers.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/PositiveNumbers/PositiveNumbers/obj/Debug/net6.0/PositiveNumbers.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/PositiveNumbers/PositiveNumbers/obj/Debug/net6.0/PositiveNumbers.genruntimeconfig.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/PositiveNumbers/PositiveNumbers/obj/Debug/net6.0/ref/PositiveNumbers.dll

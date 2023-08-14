@@ -1,0 +1,15 @@
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOddPositiveNegative/EvenOddPositiveNegative/bin/Debug/net6.0/EvenOddPositiveNegative
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOddPositiveNegative/EvenOddPositiveNegative/bin/Debug/net6.0/EvenOddPositiveNegative.deps.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOddPositiveNegative/EvenOddPositiveNegative/bin/Debug/net6.0/EvenOddPositiveNegative.runtimeconfig.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOddPositiveNegative/EvenOddPositiveNegative/bin/Debug/net6.0/EvenOddPositiveNegative.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOddPositiveNegative/EvenOddPositiveNegative/bin/Debug/net6.0/EvenOddPositiveNegative.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOddPositiveNegative/EvenOddPositiveNegative/obj/Debug/net6.0/EvenOddPositiveNegative.csproj.AssemblyReference.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOddPositiveNegative/EvenOddPositiveNegative/obj/Debug/net6.0/EvenOddPositiveNegative.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOddPositiveNegative/EvenOddPositiveNegative/obj/Debug/net6.0/EvenOddPositiveNegative.AssemblyInfoInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOddPositiveNegative/EvenOddPositiveNegative/obj/Debug/net6.0/EvenOddPositiveNegative.AssemblyInfo.cs
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOddPositiveNegative/EvenOddPositiveNegative/obj/Debug/net6.0/EvenOddPositiveNegative.csproj.CoreCompileInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOddPositiveNegative/EvenOddPositiveNegative/obj/Debug/net6.0/EvenOddPositiveNegative.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOddPositiveNegative/EvenOddPositiveNegative/obj/Debug/net6.0/refint/EvenOddPositiveNegative.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOddPositiveNegative/EvenOddPositiveNegative/obj/Debug/net6.0/EvenOddPositiveNegative.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOddPositiveNegative/EvenOddPositiveNegative/obj/Debug/net6.0/EvenOddPositiveNegative.genruntimeconfig.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOddPositiveNegative/EvenOddPositiveNegative/obj/Debug/net6.0/ref/EvenOddPositiveNegative.dll

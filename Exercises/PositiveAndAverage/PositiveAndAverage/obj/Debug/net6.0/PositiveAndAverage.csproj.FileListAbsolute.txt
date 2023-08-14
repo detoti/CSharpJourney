@@ -1,0 +1,15 @@
+/Users/andretoti/Desktop/Study/CSharpJourney/PositiveAndAverage/PositiveAndAverage/bin/Debug/net6.0/PositiveAndAverage
+/Users/andretoti/Desktop/Study/CSharpJourney/PositiveAndAverage/PositiveAndAverage/bin/Debug/net6.0/PositiveAndAverage.deps.json
+/Users/andretoti/Desktop/Study/CSharpJourney/PositiveAndAverage/PositiveAndAverage/bin/Debug/net6.0/PositiveAndAverage.runtimeconfig.json
+/Users/andretoti/Desktop/Study/CSharpJourney/PositiveAndAverage/PositiveAndAverage/bin/Debug/net6.0/PositiveAndAverage.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/PositiveAndAverage/PositiveAndAverage/bin/Debug/net6.0/PositiveAndAverage.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/PositiveAndAverage/PositiveAndAverage/obj/Debug/net6.0/PositiveAndAverage.csproj.AssemblyReference.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/PositiveAndAverage/PositiveAndAverage/obj/Debug/net6.0/PositiveAndAverage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andretoti/Desktop/Study/CSharpJourney/PositiveAndAverage/PositiveAndAverage/obj/Debug/net6.0/PositiveAndAverage.AssemblyInfoInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/PositiveAndAverage/PositiveAndAverage/obj/Debug/net6.0/PositiveAndAverage.AssemblyInfo.cs
+/Users/andretoti/Desktop/Study/CSharpJourney/PositiveAndAverage/PositiveAndAverage/obj/Debug/net6.0/PositiveAndAverage.csproj.CoreCompileInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/PositiveAndAverage/PositiveAndAverage/obj/Debug/net6.0/PositiveAndAverage.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/PositiveAndAverage/PositiveAndAverage/obj/Debug/net6.0/refint/PositiveAndAverage.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/PositiveAndAverage/PositiveAndAverage/obj/Debug/net6.0/PositiveAndAverage.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/PositiveAndAverage/PositiveAndAverage/obj/Debug/net6.0/PositiveAndAverage.genruntimeconfig.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/PositiveAndAverage/PositiveAndAverage/obj/Debug/net6.0/ref/PositiveAndAverage.dll

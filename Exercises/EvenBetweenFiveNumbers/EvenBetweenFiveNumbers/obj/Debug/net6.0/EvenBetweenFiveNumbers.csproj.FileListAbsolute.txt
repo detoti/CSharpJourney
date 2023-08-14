@@ -1,0 +1,15 @@
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenBetweenFiveNumbers/EvenBetweenFiveNumbers/bin/Debug/net6.0/EvenBetweenFiveNumbers
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenBetweenFiveNumbers/EvenBetweenFiveNumbers/bin/Debug/net6.0/EvenBetweenFiveNumbers.deps.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenBetweenFiveNumbers/EvenBetweenFiveNumbers/bin/Debug/net6.0/EvenBetweenFiveNumbers.runtimeconfig.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenBetweenFiveNumbers/EvenBetweenFiveNumbers/bin/Debug/net6.0/EvenBetweenFiveNumbers.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenBetweenFiveNumbers/EvenBetweenFiveNumbers/bin/Debug/net6.0/EvenBetweenFiveNumbers.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenBetweenFiveNumbers/EvenBetweenFiveNumbers/obj/Debug/net6.0/EvenBetweenFiveNumbers.csproj.AssemblyReference.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenBetweenFiveNumbers/EvenBetweenFiveNumbers/obj/Debug/net6.0/EvenBetweenFiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenBetweenFiveNumbers/EvenBetweenFiveNumbers/obj/Debug/net6.0/EvenBetweenFiveNumbers.AssemblyInfoInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenBetweenFiveNumbers/EvenBetweenFiveNumbers/obj/Debug/net6.0/EvenBetweenFiveNumbers.AssemblyInfo.cs
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenBetweenFiveNumbers/EvenBetweenFiveNumbers/obj/Debug/net6.0/EvenBetweenFiveNumbers.csproj.CoreCompileInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenBetweenFiveNumbers/EvenBetweenFiveNumbers/obj/Debug/net6.0/EvenBetweenFiveNumbers.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenBetweenFiveNumbers/EvenBetweenFiveNumbers/obj/Debug/net6.0/refint/EvenBetweenFiveNumbers.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenBetweenFiveNumbers/EvenBetweenFiveNumbers/obj/Debug/net6.0/EvenBetweenFiveNumbers.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenBetweenFiveNumbers/EvenBetweenFiveNumbers/obj/Debug/net6.0/EvenBetweenFiveNumbers.genruntimeconfig.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenBetweenFiveNumbers/EvenBetweenFiveNumbers/obj/Debug/net6.0/ref/EvenBetweenFiveNumbers.dll

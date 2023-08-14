@@ -1,0 +1,15 @@
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/bin/Debug/net6.0/ScreenSound
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/bin/Debug/net6.0/ScreenSound.deps.json
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/bin/Debug/net6.0/ScreenSound.runtimeconfig.json
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/bin/Debug/net6.0/ScreenSound.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/bin/Debug/net6.0/ScreenSound.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/obj/Debug/net6.0/ScreenSound.csproj.AssemblyReference.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/obj/Debug/net6.0/ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/obj/Debug/net6.0/ScreenSound.AssemblyInfoInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/obj/Debug/net6.0/ScreenSound.AssemblyInfo.cs
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/obj/Debug/net6.0/ScreenSound.csproj.CoreCompileInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/obj/Debug/net6.0/ScreenSound.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/obj/Debug/net6.0/refint/ScreenSound.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/obj/Debug/net6.0/ScreenSound.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/obj/Debug/net6.0/ScreenSound.genruntimeconfig.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/obj/Debug/net6.0/ref/ScreenSound.dll
