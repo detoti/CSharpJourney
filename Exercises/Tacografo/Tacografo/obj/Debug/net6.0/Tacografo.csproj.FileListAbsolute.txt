@@ -1,0 +1,15 @@
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Tacografo/Tacografo/bin/Debug/net6.0/Tacografo
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Tacografo/Tacografo/bin/Debug/net6.0/Tacografo.deps.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Tacografo/Tacografo/bin/Debug/net6.0/Tacografo.runtimeconfig.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Tacografo/Tacografo/bin/Debug/net6.0/Tacografo.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Tacografo/Tacografo/bin/Debug/net6.0/Tacografo.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Tacografo/Tacografo/obj/Debug/net6.0/Tacografo.csproj.AssemblyReference.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Tacografo/Tacografo/obj/Debug/net6.0/Tacografo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Tacografo/Tacografo/obj/Debug/net6.0/Tacografo.AssemblyInfoInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Tacografo/Tacografo/obj/Debug/net6.0/Tacografo.AssemblyInfo.cs
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Tacografo/Tacografo/obj/Debug/net6.0/Tacografo.csproj.CoreCompileInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Tacografo/Tacografo/obj/Debug/net6.0/Tacografo.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Tacografo/Tacografo/obj/Debug/net6.0/refint/Tacografo.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Tacografo/Tacografo/obj/Debug/net6.0/Tacografo.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Tacografo/Tacografo/obj/Debug/net6.0/Tacografo.genruntimeconfig.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Tacografo/Tacografo/obj/Debug/net6.0/ref/Tacografo.dll

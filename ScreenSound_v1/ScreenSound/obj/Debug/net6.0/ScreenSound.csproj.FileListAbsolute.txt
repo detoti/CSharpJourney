@@ -13,3 +13,16 @@
 /Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/obj/Debug/net6.0/ScreenSound.pdb
 /Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/obj/Debug/net6.0/ScreenSound.genruntimeconfig.cache
 /Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/obj/Debug/net6.0/ref/ScreenSound.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Http.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/bin/Debug/net6.0/OpenAI_API.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/ScreenSound_v1/ScreenSound/obj/Debug/net6.0/ScreenSound.csproj.CopyComplete

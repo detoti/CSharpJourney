@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1319F615-7BF5-4ED9-A985-2F7B2E93C38D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuscaNaInternet/Program.cs">
+    <Files>
+      <File FileName="BuscaNaInternet/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BuscaNaInternet" expanded="True">
+            <Node name="BuscaNaInternet">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BuscaNaInternet PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

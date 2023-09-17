@@ -1,0 +1,15 @@
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/SumOfConsecutiveOddNumbers/SumOfConsecutiveOddNumbers/bin/Debug/net6.0/SumOfConsecutiveOddNumbers
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/SumOfConsecutiveOddNumbers/SumOfConsecutiveOddNumbers/bin/Debug/net6.0/SumOfConsecutiveOddNumbers.deps.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/SumOfConsecutiveOddNumbers/SumOfConsecutiveOddNumbers/bin/Debug/net6.0/SumOfConsecutiveOddNumbers.runtimeconfig.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/SumOfConsecutiveOddNumbers/SumOfConsecutiveOddNumbers/bin/Debug/net6.0/SumOfConsecutiveOddNumbers.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/SumOfConsecutiveOddNumbers/SumOfConsecutiveOddNumbers/bin/Debug/net6.0/SumOfConsecutiveOddNumbers.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/SumOfConsecutiveOddNumbers/SumOfConsecutiveOddNumbers/obj/Debug/net6.0/SumOfConsecutiveOddNumbers.csproj.AssemblyReference.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/SumOfConsecutiveOddNumbers/SumOfConsecutiveOddNumbers/obj/Debug/net6.0/SumOfConsecutiveOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/SumOfConsecutiveOddNumbers/SumOfConsecutiveOddNumbers/obj/Debug/net6.0/SumOfConsecutiveOddNumbers.AssemblyInfoInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/SumOfConsecutiveOddNumbers/SumOfConsecutiveOddNumbers/obj/Debug/net6.0/SumOfConsecutiveOddNumbers.AssemblyInfo.cs
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/SumOfConsecutiveOddNumbers/SumOfConsecutiveOddNumbers/obj/Debug/net6.0/SumOfConsecutiveOddNumbers.csproj.CoreCompileInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/SumOfConsecutiveOddNumbers/SumOfConsecutiveOddNumbers/obj/Debug/net6.0/SumOfConsecutiveOddNumbers.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/SumOfConsecutiveOddNumbers/SumOfConsecutiveOddNumbers/obj/Debug/net6.0/refint/SumOfConsecutiveOddNumbers.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/SumOfConsecutiveOddNumbers/SumOfConsecutiveOddNumbers/obj/Debug/net6.0/SumOfConsecutiveOddNumbers.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/SumOfConsecutiveOddNumbers/SumOfConsecutiveOddNumbers/obj/Debug/net6.0/SumOfConsecutiveOddNumbers.genruntimeconfig.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/SumOfConsecutiveOddNumbers/SumOfConsecutiveOddNumbers/obj/Debug/net6.0/ref/SumOfConsecutiveOddNumbers.dll

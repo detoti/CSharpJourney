@@ -1,0 +1,15 @@
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOrOdd/EvenOrOdd/bin/Debug/net6.0/EvenOrOdd
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOrOdd/EvenOrOdd/bin/Debug/net6.0/EvenOrOdd.deps.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOrOdd/EvenOrOdd/bin/Debug/net6.0/EvenOrOdd.runtimeconfig.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOrOdd/EvenOrOdd/bin/Debug/net6.0/EvenOrOdd.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOrOdd/EvenOrOdd/bin/Debug/net6.0/EvenOrOdd.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOrOdd/EvenOrOdd/obj/Debug/net6.0/EvenOrOdd.csproj.AssemblyReference.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOrOdd/EvenOrOdd/obj/Debug/net6.0/EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOrOdd/EvenOrOdd/obj/Debug/net6.0/EvenOrOdd.AssemblyInfoInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOrOdd/EvenOrOdd/obj/Debug/net6.0/EvenOrOdd.AssemblyInfo.cs
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOrOdd/EvenOrOdd/obj/Debug/net6.0/EvenOrOdd.csproj.CoreCompileInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOrOdd/EvenOrOdd/obj/Debug/net6.0/EvenOrOdd.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOrOdd/EvenOrOdd/obj/Debug/net6.0/refint/EvenOrOdd.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOrOdd/EvenOrOdd/obj/Debug/net6.0/EvenOrOdd.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOrOdd/EvenOrOdd/obj/Debug/net6.0/EvenOrOdd.genruntimeconfig.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/EvenOrOdd/EvenOrOdd/obj/Debug/net6.0/ref/EvenOrOdd.dll

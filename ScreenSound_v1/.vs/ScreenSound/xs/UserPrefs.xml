@@ -1,30 +1,36 @@
 ﻿<Properties StartupConfiguration="{A9CCE41C-6657-42BF-AED4-F3F578033037}|Default">
-  <MonoDevelop.Ide.ItemProperties.ScreenSound PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="ScreenSound/Modelos/Banda.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScreenSound/Menus/MenuRegistrarBanda.cs">
     <Files>
-      <File FileName="ScreenSound/Program.cs" Line="71" Column="47" />
-      <File FileName="ScreenSound/Banda.cs" Line="14" Column="19" />
-      <File FileName="ScreenSound/Musica.cs" Line="1" Column="31" />
-      <File FileName="ScreenSound/Album.cs" Line="1" Column="31" />
+      <File FileName="ScreenSound/Program.cs" Line="53" Column="3" />
+      <File FileName="ScreenSound/Menus/MenuRegistrarAlbum.cs" Line="1" Column="1" />
+      <File FileName="ScreenSound/Menus/MenuExibirDetalhes.cs" Line="1" Column="1" />
+      <File FileName="ScreenSound/Menus/MenuSair.cs" />
+      <File FileName="ScreenSound/Modelos/Banda.cs" />
+      <File FileName="ScreenSound/Menus/MenuRegistrarBanda.cs" Line="18" Column="9" />
+      <File FileName="ScreenSound/Menus/Menu.cs" />
+      <File FileName="ScreenSound/Menus/MenuAvaliarBanda.cs" Line="1" Column="1" />
+      <File FileName="ScreenSound/Menus/MenuMostrarBandasRegistradas.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ScreenSound" expanded="True">
-            <Node name="ScreenSound">
-              <Node name="Modelos">
-                <Node name="Banda.cs" selected="True" />
+            <Node name="ScreenSound" expanded="True">
+              <Node name="Menus" expanded="True">
+                <Node name="MenuRegistrarBanda.cs" selected="True" />
               </Node>
+              <Node name="Modelos" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ScreenSound PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{BE2C95D8-6E1E-4432-81AC-8A34181EF27E}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="APIRequestTest/Filtros/LinqFiltro.cs">
+    <Files>
+      <File FileName="APIRequestTest/Program.cs" Line="16" Column="60" />
+      <File FileName="APIRequestTest/Modelos/Musica.cs" Line="35" Column="34" />
+      <File FileName="APIRequestTest/Filtros/LinqFiltro.cs" Line="26" Column="73" />
+      <File FileName="APIRequestTest/Filtros/LinqOrdenacao.cs" />
+      <File FileName="APIRequestTest/Modelos/MusicasPreferidas.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="APIRequestTest" expanded="True">
+            <Node name="APIRequestTest">
+              <Node name="Filtros" expanded="True">
+                <Node name="LinqFiltro.cs" selected="True" />
+              </Node>
+              <Node name="Modelos" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.APIRequestTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

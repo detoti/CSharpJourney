@@ -1,0 +1,15 @@
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Pneu/Pneu/bin/Debug/net6.0/Pneu
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Pneu/Pneu/bin/Debug/net6.0/Pneu.deps.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Pneu/Pneu/bin/Debug/net6.0/Pneu.runtimeconfig.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Pneu/Pneu/bin/Debug/net6.0/Pneu.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Pneu/Pneu/bin/Debug/net6.0/Pneu.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Pneu/Pneu/obj/Debug/net6.0/Pneu.csproj.AssemblyReference.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Pneu/Pneu/obj/Debug/net6.0/Pneu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Pneu/Pneu/obj/Debug/net6.0/Pneu.AssemblyInfoInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Pneu/Pneu/obj/Debug/net6.0/Pneu.AssemblyInfo.cs
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Pneu/Pneu/obj/Debug/net6.0/Pneu.csproj.CoreCompileInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Pneu/Pneu/obj/Debug/net6.0/Pneu.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Pneu/Pneu/obj/Debug/net6.0/refint/Pneu.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Pneu/Pneu/obj/Debug/net6.0/Pneu.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Pneu/Pneu/obj/Debug/net6.0/Pneu.genruntimeconfig.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/Pneu/Pneu/obj/Debug/net6.0/ref/Pneu.dll

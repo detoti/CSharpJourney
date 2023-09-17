@@ -1,0 +1,15 @@
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/BuscaNaInternet/BuscaNaInternet/bin/Debug/net6.0/BuscaNaInternet
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/BuscaNaInternet/BuscaNaInternet/bin/Debug/net6.0/BuscaNaInternet.deps.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/BuscaNaInternet/BuscaNaInternet/bin/Debug/net6.0/BuscaNaInternet.runtimeconfig.json
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/BuscaNaInternet/BuscaNaInternet/bin/Debug/net6.0/BuscaNaInternet.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/BuscaNaInternet/BuscaNaInternet/bin/Debug/net6.0/BuscaNaInternet.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/BuscaNaInternet/BuscaNaInternet/obj/Debug/net6.0/BuscaNaInternet.csproj.AssemblyReference.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/BuscaNaInternet/BuscaNaInternet/obj/Debug/net6.0/BuscaNaInternet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/BuscaNaInternet/BuscaNaInternet/obj/Debug/net6.0/BuscaNaInternet.AssemblyInfoInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/BuscaNaInternet/BuscaNaInternet/obj/Debug/net6.0/BuscaNaInternet.AssemblyInfo.cs
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/BuscaNaInternet/BuscaNaInternet/obj/Debug/net6.0/BuscaNaInternet.csproj.CoreCompileInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/BuscaNaInternet/BuscaNaInternet/obj/Debug/net6.0/BuscaNaInternet.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/BuscaNaInternet/BuscaNaInternet/obj/Debug/net6.0/refint/BuscaNaInternet.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/BuscaNaInternet/BuscaNaInternet/obj/Debug/net6.0/BuscaNaInternet.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/BuscaNaInternet/BuscaNaInternet/obj/Debug/net6.0/BuscaNaInternet.genruntimeconfig.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/Exercises/BuscaNaInternet/BuscaNaInternet/obj/Debug/net6.0/ref/BuscaNaInternet.dll

@@ -1,0 +1,15 @@
+/Users/andretoti/Desktop/Study/CSharpJourney/APIRequestTest/APIRequestTest/bin/Debug/net6.0/APIRequestTest
+/Users/andretoti/Desktop/Study/CSharpJourney/APIRequestTest/APIRequestTest/bin/Debug/net6.0/APIRequestTest.deps.json
+/Users/andretoti/Desktop/Study/CSharpJourney/APIRequestTest/APIRequestTest/bin/Debug/net6.0/APIRequestTest.runtimeconfig.json
+/Users/andretoti/Desktop/Study/CSharpJourney/APIRequestTest/APIRequestTest/bin/Debug/net6.0/APIRequestTest.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/APIRequestTest/APIRequestTest/bin/Debug/net6.0/APIRequestTest.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/APIRequestTest/APIRequestTest/obj/Debug/net6.0/APIRequestTest.csproj.AssemblyReference.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/APIRequestTest/APIRequestTest/obj/Debug/net6.0/APIRequestTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andretoti/Desktop/Study/CSharpJourney/APIRequestTest/APIRequestTest/obj/Debug/net6.0/APIRequestTest.AssemblyInfoInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/APIRequestTest/APIRequestTest/obj/Debug/net6.0/APIRequestTest.AssemblyInfo.cs
+/Users/andretoti/Desktop/Study/CSharpJourney/APIRequestTest/APIRequestTest/obj/Debug/net6.0/APIRequestTest.csproj.CoreCompileInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/APIRequestTest/APIRequestTest/obj/Debug/net6.0/APIRequestTest.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/APIRequestTest/APIRequestTest/obj/Debug/net6.0/refint/APIRequestTest.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/APIRequestTest/APIRequestTest/obj/Debug/net6.0/APIRequestTest.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/APIRequestTest/APIRequestTest/obj/Debug/net6.0/APIRequestTest.genruntimeconfig.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/APIRequestTest/APIRequestTest/obj/Debug/net6.0/ref/APIRequestTest.dll
