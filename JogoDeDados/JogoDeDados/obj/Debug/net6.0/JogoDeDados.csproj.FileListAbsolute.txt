@@ -1,0 +1,15 @@
+/Users/andretoti/Desktop/Study/CSharpJourney/JogoDeDados/JogoDeDados/bin/Debug/net6.0/JogoDeDados
+/Users/andretoti/Desktop/Study/CSharpJourney/JogoDeDados/JogoDeDados/bin/Debug/net6.0/JogoDeDados.deps.json
+/Users/andretoti/Desktop/Study/CSharpJourney/JogoDeDados/JogoDeDados/bin/Debug/net6.0/JogoDeDados.runtimeconfig.json
+/Users/andretoti/Desktop/Study/CSharpJourney/JogoDeDados/JogoDeDados/bin/Debug/net6.0/JogoDeDados.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/JogoDeDados/JogoDeDados/bin/Debug/net6.0/JogoDeDados.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/JogoDeDados/JogoDeDados/obj/Debug/net6.0/JogoDeDados.csproj.AssemblyReference.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/JogoDeDados/JogoDeDados/obj/Debug/net6.0/JogoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andretoti/Desktop/Study/CSharpJourney/JogoDeDados/JogoDeDados/obj/Debug/net6.0/JogoDeDados.AssemblyInfoInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/JogoDeDados/JogoDeDados/obj/Debug/net6.0/JogoDeDados.AssemblyInfo.cs
+/Users/andretoti/Desktop/Study/CSharpJourney/JogoDeDados/JogoDeDados/obj/Debug/net6.0/JogoDeDados.csproj.CoreCompileInputs.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/JogoDeDados/JogoDeDados/obj/Debug/net6.0/JogoDeDados.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/JogoDeDados/JogoDeDados/obj/Debug/net6.0/refint/JogoDeDados.dll
+/Users/andretoti/Desktop/Study/CSharpJourney/JogoDeDados/JogoDeDados/obj/Debug/net6.0/JogoDeDados.pdb
+/Users/andretoti/Desktop/Study/CSharpJourney/JogoDeDados/JogoDeDados/obj/Debug/net6.0/JogoDeDados.genruntimeconfig.cache
+/Users/andretoti/Desktop/Study/CSharpJourney/JogoDeDados/JogoDeDados/obj/Debug/net6.0/ref/JogoDeDados.dll

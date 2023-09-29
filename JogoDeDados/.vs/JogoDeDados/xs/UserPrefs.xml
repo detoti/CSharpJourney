@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{9C55C9FD-6BA0-4023-9776-BC941E246272}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.JogoDeDados PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JogoDeDados/Model/Dado.cs">
+    <Files>
+      <File FileName="JogoDeDados/Model/Dado.cs" Line="12" Column="6" />
+      <File FileName="JogoDeDados/View/Tela.cs" Line="1" Column="1" />
+      <File FileName="JogoDeDados/Controller/Aplicacao.cs" Line="1" Column="1" />
+      <File FileName="JogoDeDados/View/Program.cs" Line="1" Column="1" />
+      <File FileName="JogoDeDados/Model/Jogo.cs" Line="1" Column="1" />
+      <File FileName="JogoDeDados/Model/Calculadora.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JogoDeDados" expanded="True">
+            <Node name="JogoDeDados">
+              <Node name="Controller" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="Calculadora.cs" selected="True" />
+              </Node>
+              <Node name="View" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

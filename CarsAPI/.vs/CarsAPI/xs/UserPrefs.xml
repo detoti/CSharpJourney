@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4D7CCA5B-5D4E-4FB0-8B31-15B30431C3A8}|Default">
+  <AuthorInfo Name="Andre Toti" Email="detoti@gmail.com" Copyright="" Company="" Trademark="" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarsAPI/Controllers/CarsController.cs">
+    <Files>
+      <File FileName="CarsAPI/Controllers/CarsController.cs" Line="32" Column="6" />
+      <File FileName="CarsAPI/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CarsAPI" expanded="True">
+            <Node name="CarsAPI" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CarsAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,28 +1,29 @@
 ﻿<Properties StartupConfiguration="{15273D5A-CDD3-43EA-A78D-B0DC190FF305}|Default">
-  <MonoDevelop.Ide.ItemProperties.CalcIMC PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CalcIMC PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="CalcIMC/Program.cs">
     <Files>
-      <File FileName="CalcIMC/Menus/MenuCalcularIMC.cs" Line="61" Column="1" />
-      <File FileName="CalcIMC/Program.cs" Line="1" Column="1" />
+      <File FileName="CalcIMC/Menus/MenuCalcularIMC.cs" />
+      <File FileName="CalcIMC/Program.cs" Line="14" Column="1" />
+      <File FileName="CalcIMC/Menus/MenuSair.cs" Line="6" Column="1" />
+      <File FileName="CalcIMC/Menus/Menu.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CalcIMC" expanded="True">
+          <Node name="CalcIMC">
             <Node name="CalcIMC" expanded="True">
-              <Node name="Menus" expanded="True">
-                <Node name="MenuRegistrarInfoPessoa.cs" selected="True" />
-              </Node>
+              <Node name="Menus" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
